@@ -1,0 +1,12 @@
+{
+  "emojis": [{
+    "name": "string",
+    "symbol": "emoji",
+    "_id": 420,
+    "possibleValues": [69],
+    "constraints": [666]
+  }],
+  "constraints": [{
+    "value": "+04200420=!0420"
+  }]
+}
